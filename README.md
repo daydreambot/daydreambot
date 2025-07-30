@@ -1,5 +1,6 @@
 ## Hi there
-I'm Iyiola Elijah. A beginner still practicing and learning about GitHub and Python.
+I'm a beginner learning about GitHub and Python.
+
 
 <!--
 **daydreambot/daydreambot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
